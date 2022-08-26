@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.headerbodysection{
+    width: 100%;
+    background-color: rgb(255, 128, 238);
+}
+.mainlogo img{
+    height: 100px;
+
+}
+.mainheader{
+    display: flex;
+    justify-content: space-between;
+    padding: 11px 42px 13px 60px;
+}
+.mainlogo{
+    display: flex;
+}
+.mainlogo h3{
+    margin-top: 30px;
+}
+.headermenu{
+    display: flex;
+    margin-top: 37px;
+  
+}
+.headermenu li{
+    list-style: none;
+    padding: 8px;
+}
+/* end */
+.homesecondsection{
+    height: 600px;
+    background-image: url(./image/321.jpg);
+    background-size: cover; 
+    padding: 100px;
+    padding-left: 450px;
+    
+}
+.headermain h2{
+margin-bottom: 20px;
+margin-left: 80px;
+}
+.xyz{
+    padding-left: 80px;
+ 
+}
+.buttondiv {
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.xyz form{
+    display: flex; 
+}
+.xyz input{
+    padding:5px ; 
+}
+.blog img{
+    height: 100px;
+}
+.mainblog{
+    padding: 20px;
+    
+}
+.messageheadersection{
+    display: flex;
+}
+/* end */
+.lastsection{
+    height: 160px;
+    background-color: aquamarine;
+    padding:20px 42px 28px 24px;
+}
+.lastmainlogo img{
+    height: 100px;
+
+
+}
+.lastheader{
+    display: flex;
+    justify-content: space-between;
+
+}
+.lastmainlogo{
+    display: flex;  
+}
+.lastmainlogo h3{
+    margin-top: 30px;
+}
+.emaildiv{
+    margin-top: 30px;
+}
+.linkdiv{
+    margin-top: 30px;
+    
+}
